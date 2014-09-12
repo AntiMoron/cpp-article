@@ -1,6 +1,6 @@
 test Anchor
 
-[# Test Title 1](abcd)
+[# Test Title 1](#abcd)
 
 
 ## Test two 1.1
@@ -77,5 +77,6 @@ test Anchor
 >context
 ```
 
+[abcd][]
 ### 1123123123123123 ###
  
